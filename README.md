@@ -19,10 +19,14 @@ This project features an intelligent Data Assistant capable of bridging the gap 
 
 ## Proof of Concept
 ### 1. Self-Correction Demo
-*Insert here a screenshot showing the IA failing first and then correcting its SQL Join*
+
+<img width="1142" height="770" alt="image" src="https://github.com/user-attachments/assets/7f183660-9980-4971-8c7f-dccefad4efe6" />
+
 
 ### 2. Strategic Insights
-*Insert here the screenshot of the "Rapport d'Insight Automatique"*
+
+<img width="1101" height="378" alt="image" src="https://github.com/user-attachments/assets/b4517707-19b1-4470-8557-49818a44d64f" />
+
 
 ## Business Impact
 - **80% Reduction** in time spent by non-technical managers to access data.
